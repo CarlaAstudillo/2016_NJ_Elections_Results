@@ -1,0 +1,205 @@
+#njam-container {
+  font-size: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  fill: #333;
+  margin: 0;
+}
+
+#njam-container div.btn-group.bootstrap-select {
+  margin-bottom: 30px;
+  width: 90%;
+}
+
+#njam-container h1 {
+  font-size: 22px;
+}
+
+.muni_elex {
+  color: #333;
+}
+
+.waiting img {
+  margin: 5% 20%;
+  width: 20%;
+}
+
+.njcounties {
+  border: 2px solid #333;
+}
+
+h2 {
+  font-size: 13px;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  text-transform: uppercase;
+  border-bottom: 1px dashed #333;
+}
+
+h2.title {
+  font-size: 23px;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  text-transform: uppercase;
+  border-bottom: 1px dashed #333;
+}
+
+td {
+  padding: 3px;
+  font-size: 11.5px;
+}
+
+.prez_rep {
+  color: #67000d;
+}
+
+.prez_dem {
+  color: #08306b;
+}
+
+.tie {
+  color: #333;
+}
+
+.name {
+  font-weight: bold;
+}
+
+#njam-container h3 {
+  font-size: 12px;
+  margin: 0;
+}
+
+#njam-container h4 {
+  font-size: 14px;
+}
+
+#njam-container p {
+  color: #787878;
+  font-size: 15px;
+  line-height: 14px;
+}
+
+#njam-container .line {
+  fill: none;
+  color: #9C4811;
+  stroke-width: 0.5px;
+}
+
+#map {
+  max-width: 620px;
+}
+
+.nj {
+  color: #FFF;
+}
+
+.njmuni {
+  color: #C97136;
+  stroke-opacity: 0.6;
+  stroke-opacity: 0.6;
+  fill-opacity: 0.88;
+}
+
+#njam-container .area {
+  opacity: 0.7;
+}
+
+.number {
+  font-weight: bold;
+  color: #993404;
+  font-size: 15px;
+}
+
+#infobox p {
+  color: #333;
+}
+
+#tooltip {
+  background: rgba(255, 255, 255, .95);
+  border: 1px #999 solid;
+  position: absolute;
+  pointer-events: none;
+  float: right;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 8px;
+  pointer-events: none;
+  background: rgba(255, 255, 255, .8);
+  border: 1px #999 solid;
+}
+
+.TrumpLegend,
+.TrumpLegend {
+  color: #333;
+  font-weight: bold;
+}
+
+.leaflet-container {
+  background-color: #FFF !important;
+}
+
+#legend {
+  width: 100%;
+  background: rgb(255, 255, 255);
+  /* Fall-back for browsers that don't support rgba */
+  background: rgba(255, 255, 255, .8)
+}
+
+.leaflet-bottom {
+  height: 80px;
+  width: 300px;
+  bottom: 20px !important;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  .leaflet-bottom {
+    height: 100px;
+    width: 100%;
+  }
+}
+
+li.key {
+  border-top-width: 15px;
+  border-top-style: solid;
+  font-size: .75em;
+  width: 10%;
+  padding-left: 0;
+  padding-right: 0;
+  float: left;
+  list-style-type: none;
+}
+
+
+html,
+body {
+  margin: 0;
+}
+
+#mapcanvas {
+  height: 600px;
+  width: 100%;
+  cursor: pointer;
+}
+
+#credit {
+  float: right;
+}
+
+#credit img {
+  width: 70px;
+  float: right;
+  padding-bottom: 10px;
+}
+
+#credit p {
+  clear: both;
+  text-align: right;
+}
+
+#njam-container {
+  font-family: 'Source Sans Pro', sans-serif;
+}
