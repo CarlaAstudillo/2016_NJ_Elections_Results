@@ -1,8 +1,8 @@
 # 2016 NJ Presidential Elections Results
 
-![alt text](img/nj_north.png "NJ_Election_Map" =300)
+![alt text](img/nj_north.png "NJ_Election_Map")
 
-![alt text](img/nj_south.png "NJ_Election_Map2"  =300)
+![alt text](img/nj_south.png "NJ_Election_Map2")
 
 On November 9, 2016, 17 NJAM reporters went to every county election board in New Jersey and got the unofficial presidential election results for every municipality in the state.
 
