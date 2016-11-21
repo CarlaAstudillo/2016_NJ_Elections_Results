@@ -18,7 +18,7 @@ The municipality codes, legislative and congressional district designations are 
 Click [here](data/njelection_results.csv) to dive directly into the csv. 
 
 | COLUMNS       | DEFINITION           | 
-| ------------- |:-------------| 
+|:------------- |:-------------| 
 |**county**    |The county |
 |**municipality**     | The municipality | 
 | **muni_code** | The municipality code used to connect the csv to the topojson| 
