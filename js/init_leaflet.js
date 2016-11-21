@@ -60,17 +60,17 @@ $(document).ready(function() {
 
         data.forEach(function(d) {
 
-            prez_dem[d.MUNI_CODE] = +d.prez_dem;
-            dem_per[d.MUNI_CODE] = +d.prez_dem_per;
-            prez_rep[d.MUNI_CODE] = +d.prez_rep;
-            rep_per[d.MUNI_CODE] = +d.prez_rep_per;
-            others[d.MUNI_CODE] = +d.others_total;
-            others_per[d.MUNI_CODE] = +d.others_per;
-            margin_vic[d.MUNI_CODE] = +d.margin_victory;
-            the_winner[d.MUNI_CODE] = d.winner;
-            muni_code[d.MUNI_CODE] = d.MUNI_CODE;
-            town_name[d.MUNI_CODE] = d.Municipality;
-            total_votes[d.MUNI_CODE] = d.total_votes;
+            prez_dem[d.muni_code] = +d.prez_dem;
+            dem_per[d.muni_code] = +d.prez_dem_per;
+            prez_rep[d.muni_code] = +d.prez_rep;
+            rep_per[d.muni_code] = +d.prez_rep_per;
+            others[d.muni_code] = +d.others_total;
+            others_per[d.muni_code] = +d.others_per;
+            margin_vic[d.muni_code] = +d.margin_victory;
+            the_winner[d.muni_code] = d.winner;
+            muni_code[d.muni_code] = d.muni_code;
+            town_name[d.muni_code] = d.municipality;
+            total_votes[d.muni_code] = d.total_votes;
 
 
 

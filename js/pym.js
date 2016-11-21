@@ -514,7 +514,7 @@
          */
         this.sendHeight = function() {
             // Get the child's height.
-            var height = document.getElementById("ibt-container").offsetHeight.toString();
+            var height = document.getElementById("njam-container").offsetHeight.toString();
 
             // document.getElementsByTagName('body')[0]
             // document.getElementById("ibt-container")
