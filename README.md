@@ -5,7 +5,12 @@
 
 On November 9, 2016, 17 NJAM reporters went to every county election board in New Jersey and got the unofficial presidential election results for every municipality in the state.
 
-Using this data, the NJAM data team made several maps showing town-by-town map results and analysis for NJ.com and The Star-Ledger.
+Using this data, the NJAM data team made several maps showing town-by-town map results and analysis for NJ.com and The Star-Ledger:
+
+[See how your town voted in the 2016 presidential election](http://www.nj.com/news/index.ssf/2016/11/how_your_town_voted_in_the_2016_presidential_election.html)
+[The 53 N.J. towns that flipped from Obama to Trump](http://www.nj.com/news/index.ssf/2016/11/the_53_obama_towns_that_voted_for_trump_this_time_around_in_nj.html)
+[The N.J. towns with the most Gary Johnson and Jill Stein votes](http://www.nj.com/news/index.ssf/2016/11/how_gary_johnson_and_jill_stein_fared_in_every_nj_town.html)
+[Trump's election ripped this N.J. county in half](http://www.nj.com/bergen/index.ssf/2016/11/how_trumps_election_tore_njs_most-populous_county_in_half.html)
 
 You can use this data for your own analysis. Contact [me](castudillo@njadvancemedia.com) or [Erin Petenko](epetenko@njadvancemedia.com) if you have any questions. Also, let us know what interesting trends you end up finding and what you end up making.
 
